@@ -26,7 +26,7 @@ The Inventory Management tool is designed to help companies keep track of their 
 
 1. Clone the repository to your local machine:
 
-git clone <repository-url>
+git clone <git@github.com:smkStarz/inventory-management.git>
 
 2. Navigate to the project directory:
 
